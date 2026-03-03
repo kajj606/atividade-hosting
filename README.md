@@ -1,1 +1,0 @@
-Este projeto tem como objetivo entender e implementar as práticas de hospedagem simples, seja para serviços de hospedagem de sites, hospedagem de arquivos, ou até mesmo simulação de um pequeno negócio de hospedagem de hóspedes. O projeto cobrirá desde o planejamento da infraestrutura até o atendimento e gestão de serviços.
